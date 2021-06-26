@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![](/static/img/bird1.jpg)
+
 ### h3 title
 
 lorem ipsum
